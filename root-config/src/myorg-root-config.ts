@@ -1,13 +1,13 @@
 import * as singleSpa from "single-spa";
 
-singleSpa.registerApplication({
-  name: "@single-spa/welcome",
-  app: () =>
-    System.import<singleSpa.LifeCycles>(
-      "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js"
-    ),
-  activeWhen: ["/"],
-});
+// singleSpa.registerApplication({
+//   name: "@single-spa/welcome",
+//   app: () =>
+//     System.import<singleSpa.LifeCycles>(
+//       "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js"
+//     ),
+//   activeWhen: ["/"],
+// });
 
 singleSpa.registerApplication({
   name: "@myorg/react-app",
