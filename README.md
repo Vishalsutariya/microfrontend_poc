@@ -24,4 +24,8 @@ Dashboard of App 👇
 
 Angular MicrofrontEnd App 👇
 
-![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/30944951/203531167-7c420c84-d359-4a63-ba11-2431bba864ad.png)
+![angularSS](https://user-images.githubusercontent.com/30944951/203541496-a7e55b59-3209-4d62-8127-a3754bc7141d.png)
+
+React MicrofrontEnd App 👇
+
+![reactSS](https://user-images.githubusercontent.com/30944951/203541654-375415d4-ea43-4a12-98a2-75cb9b03ce86.png)
