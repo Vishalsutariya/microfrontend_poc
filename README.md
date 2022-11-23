@@ -10,7 +10,10 @@ This repository contais 3 folders
 Clone this repository --> git clone https://github.com/Vishalsutariya/microfrontend_poc.git
 
 Go inside each repository/folder and run --> npm install or npm install --legacy-peer-deps
+
 Run **npm start** inside each folder
+
 Above command will run each microfrontend and root-config
+
 
 Go to browser and hit http://localhost:8081
