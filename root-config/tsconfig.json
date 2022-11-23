@@ -1,0 +1,11 @@
+{
+  "extends": "ts-config-single-spa",
+  "files": ["src/myorg-root-config.ts"],
+  "compilerOptions": {
+    "declarationDir": "dist",
+    "composite": true,
+    "checkJs": false
+  },
+  "include": ["src/**/*"],
+  "exclude": ["src/**/*.test*"]
+}
